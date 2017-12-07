@@ -18,6 +18,9 @@
   opacity: 0.8;
   cursor: pointer; }
 
+#contact .fa {
+  font-size: 1em; }
+
 #main-footer .fa {
   font-size: 1em; }
 
